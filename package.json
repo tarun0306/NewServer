@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev" : "nodemon index.js0"
-
+    "dev": "nodemon index.js0"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cloudinary": "^2.0.1",
     "express": "^4.18.2",
     "nodemon": "^3.0.3"
   }
